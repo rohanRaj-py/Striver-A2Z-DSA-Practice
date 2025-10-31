@@ -1,5 +1,5 @@
 # 🧠 Step 1: Learn the Basics
-#Lecture 1 :Thinks to know
+Lecture 1 :Thinks to know
 | Lecture | Problem | Difficulty | Status | Solution |
 |----------|----------|-------------|---------|-----------|
 | 1 | Input Output | 🟢 Easy | ✅ Done | [userInputOutput.cpp](../../Step_1_Learn_the_Basics/userInputOutput.cpp) |
